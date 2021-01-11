@@ -1,0 +1,3 @@
+[submodule "proot-src"]
+	path = proot-src
+	url = https://github.com/termux/proot
